@@ -5,7 +5,7 @@ theme = "hugo-tufte"
 languageCode = "nl"
 
 # The url of your website
-# baseurl = "https://sjhogerzeil.github.com/praktijk"
+baseurl = "https://sjhogerzeil.github.io/praktijk/"
 
 # Folder where the generated website is stored
 publishDir = "docs"
