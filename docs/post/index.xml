@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on dr. Simon J. Hogerzeil, psychiater</title>
-    <link>/post/</link>
+    <link>https://sjhogerzeil.github.io/praktijk/post/</link>
     <description>Recent content in Posts on dr. Simon J. Hogerzeil, psychiater</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://sjhogerzeil.github.io/praktijk/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welkom</title>
-      <link>/post/more-maths/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/more-maths/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>/post/more-maths/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/more-maths/</guid>
       <description>&lt;p&gt;A compilation of $\LaTeX$ formulas&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hugo-Tufte Features</title>
-      <link>/post/tufte-features/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/tufte-features/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>/post/tufte-features/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/tufte-features/</guid>
       <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
 of this theme.  One of them is $ \LaTeX $ via &lt;a href=&#34;https://katex.org/&#34;&gt;Katex&lt;/a&gt;.
 
@@ -52,20 +52,20 @@ Shawn O&amp;#39;Hare,
     
     <item>
       <title>Hide Date</title>
-      <link>/post/nodate/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/nodate/</link>
       <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/nodate/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/nodate/</guid>
       <description>Here is an example post where the date set, but hidden from display.
 Moreover, the reading time is also hidden.</description>
     </item>
     
     <item>
       <title>Blockquotes</title>
-      <link>/post/blockquote/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/blockquote/</link>
       <pubDate>Mon, 19 Jan 2015 23:57:58 -0800</pubDate>
       
-      <guid>/post/blockquote/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/blockquote/</guid>
       <description>&lt;p&gt;Below is a blockquote.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -78,10 +78,10 @@ id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
     
     <item>
       <title>Just another sample post</title>
-      <link>/post/new/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/new/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/new/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/new/</guid>
       <description>First Heading Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.
 Sub Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, perferendis saepe voluptatem a nesciunt architecto voluptas deleniti dolor tempora quasi quidem odit rem fugit magnam minima quam dolores vel id?</description>
     </item>

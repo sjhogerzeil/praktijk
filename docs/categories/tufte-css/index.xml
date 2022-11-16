@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tufte-css on dr. Simon J. Hogerzeil, psychiater</title>
-    <link>/categories/tufte-css/</link>
+    <link>https://sjhogerzeil.github.io/praktijk/categories/tufte-css/</link>
     <description>Recent content in tufte-css on dr. Simon J. Hogerzeil, psychiater</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="/categories/tufte-css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://sjhogerzeil.github.io/praktijk/categories/tufte-css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welkom</title>
-      <link>/post/more-maths/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/more-maths/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>/post/more-maths/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/more-maths/</guid>
       <description>&lt;p&gt;A compilation of $\LaTeX$ formulas&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hugo-Tufte Features</title>
-      <link>/post/tufte-features/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/tufte-features/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>/post/tufte-features/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/tufte-features/</guid>
       <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
 of this theme.  One of them is $ \LaTeX $ via &lt;a href=&#34;https://katex.org/&#34;&gt;Katex&lt;/a&gt;.
 

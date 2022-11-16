@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on dr. Simon J. Hogerzeil, psychiater</title>
-    <link>/categories/</link>
+    <link>https://sjhogerzeil.github.io/praktijk/categories/</link>
     <description>Recent content in Categories on dr. Simon J. Hogerzeil, psychiater</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://sjhogerzeil.github.io/praktijk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>katex</title>
-      <link>/categories/katex/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/categories/katex/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>/categories/katex/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/categories/katex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>latex</title>
-      <link>/categories/latex/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/categories/latex/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>/categories/latex/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/categories/latex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tufte-css</title>
-      <link>/categories/tufte-css/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/categories/tufte-css/</link>
       <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>/categories/tufte-css/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/categories/tufte-css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>/categories/fun/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/categories/fun/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/fun/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/categories/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>/categories/hugo/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/categories/hugo/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hugo/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>/categories/test/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/categories/test/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/test/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/categories/test/</guid>
       <description></description>
     </item>
     

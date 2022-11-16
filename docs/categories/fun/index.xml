@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fun on dr. Simon J. Hogerzeil, psychiater</title>
-    <link>/categories/fun/</link>
+    <link>https://sjhogerzeil.github.io/praktijk/categories/fun/</link>
     <description>Recent content in fun on dr. Simon J. Hogerzeil, psychiater</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="/categories/fun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://sjhogerzeil.github.io/praktijk/categories/fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Just another sample post</title>
-      <link>/post/new/</link>
+      <link>https://sjhogerzeil.github.io/praktijk/post/new/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/new/</guid>
+      <guid>https://sjhogerzeil.github.io/praktijk/post/new/</guid>
       <description>First Heading Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.
 Sub Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, perferendis saepe voluptatem a nesciunt architecto voluptas deleniti dolor tempora quasi quidem odit rem fugit magnam minima quam dolores vel id?</description>
     </item>

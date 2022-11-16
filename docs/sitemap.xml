@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/categories/katex/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/katex/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/categories/latex/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/latex/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/post/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/categories/tufte-css/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/tufte-css/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/post/more-maths/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/post/more-maths/</loc>
     <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/post/tufte-features/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/post/tufte-features/</loc>
     <lastmod>2016-02-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>/post/nodate/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/post/nodate/</loc>
     <lastmod>2015-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/blockquote/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/post/blockquote/</loc>
     <lastmod>2015-01-19T23:57:58-08:00</lastmod>
   </url><url>
-    <loc>/categories/fun/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/fun/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/hugo/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/hugo/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/new/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/post/new/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/test/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/categories/test/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/about/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://sjhogerzeil.github.io/praktijk/tags/</loc>
   </url>
 </urlset>
